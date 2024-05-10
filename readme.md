@@ -15,11 +15,4 @@ This project implements a decentralized public opinion polling system on the Ste
 * Basic familiarity with Rust and the Stellar network.
 * Soroban SDK installed ([https://soroban.stellar.org/install.sh](https://soroban.stellar.org/install.sh))
 
-## Project Setup
-
-1. Clone this repository.
-2. Install dependencies:
-   ```bash
-   cargo install --locked
-soroban build --target wasm32-unknown-unknown
 
